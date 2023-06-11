@@ -1,0 +1,11 @@
+.navbar-header{
+    display:flex;
+    justify-content: end;
+background: blue;
+color:white;
+height: 80px;
+}
+.link{
+    display: inline-block;
+    color: white;
+}
